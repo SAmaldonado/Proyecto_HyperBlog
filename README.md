@@ -11,6 +11,7 @@ Un blog increíble para el [curso de Git y Github](https://platzi.com/cursos/git
 * La personalidad fragmentada de freddy
 * Creado por el Team Platzi
 * Incluye ejemplos en Windows, linux y Mac.
+* Disponible para todas las edades
 
 Todo este Readme es un **Yolo**. Solo es para llamar la atención y decirte que el curso vale la pena.
 [**Acá esta el curso**](https://platzi.com/cursos/git-github/ "**Acá esta el curso**")
